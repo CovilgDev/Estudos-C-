@@ -1,0 +1,6 @@
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\Models\bin\Debug\Models.dll
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\Models\bin\Debug\Models.pdb
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\Models\obj\Debug\Models.dll
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\Models\obj\Debug\Models.pdb

@@ -1,0 +1,11 @@
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\bin\Debug\BLL.dll
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\bin\Debug\BLL.pdb
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\bin\Debug\DAL.dll
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\bin\Debug\Models.dll
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\bin\Debug\DAL.pdb
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\bin\Debug\Models.pdb
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\obj\Debug\BLL.csproj.Up2Date
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\obj\Debug\BLL.dll
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\BLL\obj\Debug\BLL.pdb
