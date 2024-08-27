@@ -21,5 +21,12 @@ namespace UI
         {
             Application.Exit();
         }
+
+        private void btnOK_Click(object sender, EventArgs e)
+        {
+            frmPrincipal frmPrincipal1 = new frmPrincipal(txtUsuario.Text);
+            frmPrincipal1.Show();
+            this.Dispose();
+        }
     }
 }

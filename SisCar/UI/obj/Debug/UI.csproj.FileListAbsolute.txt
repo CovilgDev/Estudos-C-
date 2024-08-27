@@ -16,3 +16,4 @@
 \\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\UI\obj\Debug\UI.exe
 \\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\UI\obj\Debug\UI.pdb
 \\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\UI\obj\Debug\UI.frmLogin.resources
+\\10.0.10.198\instrutores\00 - INSTRUTORES\01 - Thiago\C#\SisCar\UI\obj\Debug\UI.frmPrincipal.resources
