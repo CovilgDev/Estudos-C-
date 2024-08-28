@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace UI
 {
@@ -41,12 +42,49 @@ namespace UI
 
         private void frmPrincipal_Shown(object sender, EventArgs e)
         {
-            toolStripStatusLabel1.Text = "Bem-Vindo" + usuario + "!";
+            toolStripStatusLabel1.Text = "Bem-Vindo " + usuario + "!";
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
             toolStripStatusLabel2.Text = DateTime.Now.ToString();
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripButton3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void calculadoraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Process.Start("calc.exe");
+        }
+
+        private void consultaDetranToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Process.Start("chrome.exe","www.detran.rj.gov.br");
+            }
+            catch(Exception ex)
+            {
+                Process.Start("msedge.exe", "www.detran.rj.gov.br");
+            }
         }
     }
 }
